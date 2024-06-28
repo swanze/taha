@@ -1,0 +1,90 @@
+/* .image-qr-code{
+    height: 50vh;
+    border-radius: 10px;
+}
+.img-div{
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    align-content: center;
+    background-color: #accdff;
+}
+.attribution{
+    position: relative;
+    text-align: center;
+    height: 114px;
+    background-color: rgb(255, 223, 181);
+    align-content: center;
+    margin: 0 -8px -8px -8px;
+}
+.btm-dtl{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainbody{
+    height: 80vh;
+}
+.hdr-dtl{
+    background-color: rgb(241, 233, 247);
+    height: 100%;
+    align-content: center;
+}
+.pd1{
+    font: 20px verdana;
+}
+.line-2{
+    font: bold 15px verdana;
+} */
+
+.mainbody{
+    height: 100vh;width: 100vw;background-color: 
+    #F0F0F0;text-align: center;align-items: center;
+    display: flex;justify-content: center;
+}
+.component-background{
+    width: 80%;height: 80%;background-color: #D6E1F0;
+    text-align: center;align-content: center;align-items: center;
+    display: flex;justify-content: center;
+}
+.main-component-body{
+    height: 70%;width: 20%;background-color: rgb(255, 255, 255);
+    align-content: center;align-items: center;
+    border-radius: 10px;
+    display: flex;justify-content: center;
+}
+.inner{
+    height: 90%;width: 90%;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    display: flex;flex-direction: column;
+    border-radius: 10px;
+    /* padding: 10px; */
+    /* justify-content: center; */
+    /* flex-flow: column; */
+}
+.content-div{
+    /* background-color: rgb(253, 3, 3); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.line-1{
+    font-size: xx-large;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.line-2{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pd1{
+    flex: 1;
+}
+.main-text-div{
+    background-color: chocolate;
+}
+.image-qr-code{
+    height: 90%;width: 100%;
+    /* flex: 6; */
+    border-radius: 10px;
+}
